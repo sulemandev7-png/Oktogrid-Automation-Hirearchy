@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "playwright-test": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "node_modules\\.bin\\playwright",
+        "run-test-mcp-server"
+      ]
+    }
+  },
+  "inputs": []
+}

@@ -1,0 +1,1 @@
+// Scaffold test — superseded by partner-hierarchy.spec.js
