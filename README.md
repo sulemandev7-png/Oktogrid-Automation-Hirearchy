@@ -1,4 +1,4 @@
-# Oktogrid Playwright Automation Changed
+# Oktogrid Playwright Automation
 
 🚨 **CLEANUP REQUIRED**: Please read [CLEANUP-INSTRUCTIONS.md](./CLEANUP-INSTRUCTIONS.md) first!
 
